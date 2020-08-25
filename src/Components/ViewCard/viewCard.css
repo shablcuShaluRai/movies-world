@@ -1,0 +1,50 @@
+.view-card-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  width: 100%;
+}
+
+.view-card-wrap img {
+  width: 100%;
+  height: 100%;
+}
+
+.movie-details {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* .label-value-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.label-value-wrapper .label {
+  margin-right: 30px;
+} */
+
+.label-value-wrapper {
+  width: 100%;
+  display: flex;
+  color: #fff;
+  align-items: center;
+  margin: 6px;
+}
+
+.label-value-wrapper .label {
+  padding-left: 25px;
+  font-size: 18px;
+  text-align: right;
+  width: 17%;
+}
+
+.label-value-wrapper .value {
+  text-align: left;
+  font-size: 14px;
+  padding-left: 10px;
+  width: 73%;
+}

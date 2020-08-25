@@ -1,0 +1,20 @@
+.homepage-wrap select {
+  padding: 15px;
+  margin: 20px;
+  width: 10%;
+  background-color: white;
+}
+
+.homepage-wrap button {
+  padding: 16px;
+  margin-left: 16px;
+  background-color: white;
+  border: none;
+  width: 10%;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.text {
+  color: #fff;
+}
