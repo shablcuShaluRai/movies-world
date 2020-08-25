@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movies-world/static/css/main.27d545f7.chunk.css",
+    "main.js": "/movies-world/static/js/main.09c7ab99.chunk.js",
+    "main.js.map": "/movies-world/static/js/main.09c7ab99.chunk.js.map",
+    "runtime-main.js": "/movies-world/static/js/runtime-main.625da92f.js",
+    "runtime-main.js.map": "/movies-world/static/js/runtime-main.625da92f.js.map",
+    "static/js/2.58117173.chunk.js": "/movies-world/static/js/2.58117173.chunk.js",
+    "static/js/2.58117173.chunk.js.map": "/movies-world/static/js/2.58117173.chunk.js.map",
+    "index.html": "/movies-world/index.html",
+    "precache-manifest.e787193ea761aeb43fd67d68058a73a9.js": "/movies-world/precache-manifest.e787193ea761aeb43fd67d68058a73a9.js",
+    "service-worker.js": "/movies-world/service-worker.js",
+    "static/css/main.27d545f7.chunk.css.map": "/movies-world/static/css/main.27d545f7.chunk.css.map",
+    "static/js/2.58117173.chunk.js.LICENSE.txt": "/movies-world/static/js/2.58117173.chunk.js.LICENSE.txt",
+    "static/media/image1.jpg": "/movies-world/static/media/image1.a3be25fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.625da92f.js",
+    "static/js/2.58117173.chunk.js",
+    "static/css/main.27d545f7.chunk.css",
+    "static/js/main.09c7ab99.chunk.js"
+  ]
+}
